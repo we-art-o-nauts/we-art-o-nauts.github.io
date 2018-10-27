@@ -1,0 +1,26 @@
+{
+  "name": "weartonauts",
+  "version": "1.0.0",
+  "description": "- Kamontat Chantrachirathumrong (Developer)\r - [Oleg Lavrovsky (Developer)](https://github.com/loleg) \r - Marina Pardini (UX designer)\r - Birk Weiberg (Art Historian)\r - [Xia Willuhn (Developer)](https://github.com/xwilluhn)",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "vuepress": "^0.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "vuepress build -d dist",
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we-art-o-nauts/we-art-o-nauts.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/we-art-o-nauts/we-art-o-nauts.github.io/issues"
+  },
+  "homepage": "https://github.com/we-art-o-nauts/we-art-o-nauts.github.io#readme"
+}
