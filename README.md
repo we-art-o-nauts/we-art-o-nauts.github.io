@@ -10,7 +10,7 @@ Build a working and easy to follow prototype that integrates open and curated cu
 
 - Hareware 
   - Gear VR oculus
-  
+
 - software
   - Data processing (Zepto, PapaParse)
   - Open data formats (CSV, Timeline.js)
@@ -23,7 +23,7 @@ Have a VR view device next to the painting, we integrate interesting facts about
 Focusing on one art piece, organizing data alone the timeline, building a concept and process, so anyone who want to use above technologies can easily follow the steps for any art object for any museum.
  
 
-## The Complishment
+## The Accomplishment
 
 - Working demo with Landsmuseum object 'AllianceTeppich'!
 - Anyone is interested in creating such experience in an exhibition with open and curated data can do it!
@@ -41,8 +41,8 @@ Focusing on one art piece, organizing data alone the timeline, building a concep
 
 ## The Source Code at [Github](https://github.com/we-art-o-nauts)
 
-## This project is part of Swiss GLAMHack 2018
-![icon](./assets/glam2-200.png)
+## This project is part of [Swiss GLAMHack 2018](https://glam.opendata.ch/)
+[![icon](./assets/glam2-200.png)](http://make.opendata.ch/wiki/event:2018-10)
 
 <style>
 body {
