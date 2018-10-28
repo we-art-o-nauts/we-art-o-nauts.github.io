@@ -8,10 +8,10 @@ Build a working and easy to follow prototype that integrates open and curated cu
   - curated data from Dominik Sievi in Landsmuseum
   - open data sources (WikiData)
 
-- Hareware 
+- Hardware 
   - Gear VR oculus
 
-- software
+- Software
   - Data processing (Zepto, PapaParse)
   - Open data formats (CSV, Timeline.js)
   - Web VR tools (A-Frame, Three.js)
