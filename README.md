@@ -36,9 +36,9 @@ The [Timeline.js](https://timeline.knightlab.com/) was instrumental to our conce
 
 We used this "powerful, in-browser CSV parser for big boys and girls" to work with data from the Timeline.js-formatted spreadsheet that we shared with our team using [Google Sheets](https://www.google.com/sheets/about/).
 
-[![A-Frame logo](assets/aframe.png)](https://aframe.io/docs/)
+[![A-Frame logo](assets/aframe-logo.png)](https://aframe.io/docs/)
 
-Our secret weapon is this super awesome toolkit for building Virtual Reality experiences using Web standards. Easy enough for non-coders to understand and get started with, flexible enough to be used as the basis for blockbuster productions, we think [A-Frame](https://aframe.io/) rocks the llama's pyjamas.
+Our secret weapon is this superawesome toolkit for building Virtual Reality experiences using Web standards. Easy enough for non-coders to understand and get started with, flexible enough to be used as the basis for blockbuster productions, we think [A-Frame](https://aframe.io/) is just about the llama's pyjamas.
 
 ## An [Open Source](https://github.com/we-art-o-nauts) project
 
@@ -47,11 +47,11 @@ Our secret weapon is this super awesome toolkit for building Virtual Reality exp
 
 ## The A-Team
 
-- [Kamontat Chantrachirathumrong (Developer)](https://github.com/kamontat)
-- [Oleg Lavrovsky (Developer)](https://github.com/loleg)
-- [Marina Pardini (UX designer)](http://www.marinapardini.com/)
-- Birk Weiberg (Art Historian)
-- [Xia Willuhn (Developer)](https://github.com/xwilluhn)
+- [Marina Pardini](http://www.marinapardini.com/) (UX designer)
+- [Kamontat Chantrachirathumrong](https://github.com/kamontat) (Developer)
+- [Xia Willuhn](https://github.com/xwilluhn) (Developer)
+- [Oleg Lavrovsky](https://github.com/loleg) (Developer)
+- [Birk Weiberg](https://github.com/birk) (Expert)
 
 <img src='./assets/alliance-teppich.jpg'>
 
