@@ -12,7 +12,9 @@ Have a look at our [hackathon demo](http://schoolofdata.ch/workshops/2018/wearto
 
 ## How does it work?
 
-Anyone interested in creating such experience in an exhibition with open and curated data can use this! Not only are the technologies behind our process 100% open source, but we have implemented this based on the Timeline.js data standard supported by the Knight Foundation, to extend the popular 2D web timelines with these 3D editions. Visit our project's [README](https://github.com/we-art-o-nauts/we-art-o-nauts/blob/master/README.md) for more information.
+Anyone interested in creating such experience in an exhibition with open and curated data can use this! Not only are the technologies behind our process 100% open source, but we have implemented this based on the Timeline.js data standard supported by the Knight Foundation, to extend the popular 2D web timelines with these 3D editions. Visit our source code's [README](https://github.com/we-art-o-nauts/we-art-o-nauts/blob/master/README.md) for more information.
+
+[![](https://raw.githubusercontent.com/we-art-o-nauts/we-art-o-nauts/master/data/logo1.png)](https://github.com/we-art-o-nauts/we-art-o-nauts/blob/master/README.md)
 
 ## Process 
 
