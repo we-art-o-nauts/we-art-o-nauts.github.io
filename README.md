@@ -23,7 +23,7 @@ Have a VR view device next to the painting, we integrate interesting facts about
 Focusing on one art piece, organizing data alone the timeline, building a concept and process, so anyone who want to use above technologies can easily follow the steps for any art object for any museum.
  
 
-## The Accomplishment
+## The Accomplished
 
 - Working demo with Landsmuseum object 'AllianceTeppich'!
 - Anyone is interested in creating such experience in an exhibition with open and curated data can do it!
