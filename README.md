@@ -1,6 +1,6 @@
-Our purpose is to build a functional and easy-to-use prototype for **exploring open and curated cultural data with virtual reality** in a museum setting, providing a **modern, fun and intriguing visitor experience**.
+A functional and easy-to-use prototype for **exploring open and curated cultural data with virtual reality** in a museum setting, providing a **modern, fun and intriguing visitor experience**.
 
-We propose setting up a VR viewer device close to museum objects, which is used to access detailed views and interesting facts in a 360° timeline with voiceovers and imagery. Focusing on one art piece, we collect data about its history, inception, and conservation efforts to present day, and implement a concept and process that anyone could easily reuse for any art object in any museum.
+[We](#contact) propose setting up a VR viewer device close to museum objects, which is used to access detailed views and interesting facts in a 360° timeline with voiceovers and imagery. Focusing on one art piece, we collect data about its history, inception, and conservation efforts to present day, and implement a concept and process that anyone could easily reuse for any art object in any museum.
 
 ## Demo
 
@@ -24,7 +24,7 @@ At the 2018 Open Cultural Data Hackathon we received curated data from the museu
 
 Looking through a number of approaches to enhancing exhibitions with VR tech, and testing existing installations at the National Museums, led us to brainstorm at length the possibilities and contingencies in this field. We went past many flashy and mind-bogglingly cool ideas to settle on something that could definitely add value to the exhibit, was possible to develop and implement at low cost, and had the potential for wow-factor.
 
-![Concept art](assets/WqlqEkq 2.jpg)
+![Concept art](assets/WqlqEkq%202.jpg)
 
 *Concept by Marina Pardini*
 
@@ -55,6 +55,7 @@ Our secret weapon is this superawesome toolkit for building Virtual Reality expe
 ## Started at [#GLAMHack 2018](https://glam.opendata.ch/)
 [![icon](./assets/glam2-200.png)](http://make.opendata.ch/wiki/event:2018-10)
 
+<a name="contact"></a>
 ## The A-Team
 
 - [Marina Pardini](http://www.marinapardini.com/) (UX designer)
@@ -62,6 +63,8 @@ Our secret weapon is this superawesome toolkit for building Virtual Reality expe
 - [Xia Willuhn](https://github.com/xwilluhn) (Developer)
 - [Oleg Lavrovsky](https://github.com/loleg) (Developer)
 - [Birk Weiberg](https://github.com/birk) (Expert)
+
+Please contact us using [GitHub Issues](https://github.com/we-art-o-nauts/we-art-o-nauts.github.io/issues) or the [Opendata.ch Slack](https://opendata-ch.slack.com/) (#weartonauts)
 
 <img src='./assets/alliance-teppich.jpg'>
 
