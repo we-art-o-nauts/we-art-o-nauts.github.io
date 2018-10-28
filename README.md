@@ -6,7 +6,9 @@ We propose setting up a VR viewer device next to the museum object, which is use
 
 Have a look at our working demo based on the *Allianzteppich* currently displayed at the Swiss National Museum:
 
-<a href="http://schoolofdata.ch/workshops/2018/weartonauts/" target="_blank"><v-button markup="success">DEMO</v-button></a>
+[![OPEN DEMO](assets/CardboardDemo.png)](http://schoolofdata.ch/workshops/2018/weartonauts/)
+
+*Works well in modern browsers and mobile phones, supports [Google Cardboard](https://vr.google.com/cardboard/get-cardboard/) and other [WebVR devices](https://webvr.info/).* 
 
 ## How does it work?
 
